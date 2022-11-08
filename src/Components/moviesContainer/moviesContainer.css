@@ -1,0 +1,14 @@
+.listTitle {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: start;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  border-bottom-width: 30%;
+  color: #333;
+  border-bottom: gray 0.5px solid;
+}
+.movieList {
+  width: 85vw;
+  min-height: 75vh;
+}
